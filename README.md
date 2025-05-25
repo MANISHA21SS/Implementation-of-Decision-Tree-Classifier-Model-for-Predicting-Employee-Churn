@@ -72,7 +72,7 @@ accuracy=metrics.accuracy_score(y_test,y_pred)
 accuracy
 
 dt.predict([[0.5,0.8,9,260,6,0,1,2]])
-
+```
 ## Output:
 ![Screenshot 2025-05-25 174641](https://github.com/user-attachments/assets/fc402324-916a-4aa0-a0dc-a3e2a2f70022)
 
